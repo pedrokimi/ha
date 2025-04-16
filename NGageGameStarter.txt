@@ -1,0 +1,2 @@
+StarterVersion: 1.0
+Path: \system\apps\6R83\6R83.app
